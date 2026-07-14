@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="github_profile_banner.png" alt="Charan Karthik M - Full-Stack Developer" width="100%" />
+</p>
+
 # Hi there! I'm Charan Karthik M <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/gifs/loop_3.gif" width="30" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Logic+%26+Aesthetics+Enthusiast;Building+Civic+%26+AI+Solutions;Always+learning%2C+constantly+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Logic+%26+User+Experience+Enthusiast;Building+Civic+%26+AI+Solutions;Always+learning%2C+constantly+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -98,7 +102,7 @@ const charan = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charankarthik26&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Charan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charankarthik26&layout=compact&theme=radical&hide_border=true" alt="Charan's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charankarthik26&layout=compact&theme=radical&hide_border=true" alt="Charan's Top Languages" width="48%" />
 </p>
 
 <p align="center">
