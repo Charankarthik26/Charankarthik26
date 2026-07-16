@@ -1,22 +1,46 @@
-<p align="center">
-  <img src="github_profile_banner.png" alt="Charan Karthik M - Full-Stack Developer" width="100%" />
-</p>
+<div align="center">
+  <h1>👋 Hello, I'm Charan Karthik M</h1>
+  <p><strong>Full-Stack Software Engineer & Designer</strong></p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Charankarthik26&label=Profile%20Views&color=F85D7F&style=flat-square" alt="Profile Views" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/github/followers/Charankarthik26?style=flat-square&logo=github&logoColor=white&color=2ea44f" alt="GitHub followers" />
+  </p>
 
-<h1 align="center">Hi there! I'm Charan Karthik M <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/gifs/loop_3.gif" width="35" /></h1>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Logic+%26+User+Experience+Enthusiast;Building+Civic+%26+AI+Solutions;Always+learning%2C+constantly+building" alt="Typing SVG" />
-</p>
+</div>
+
+<br />
+
+### 🎯 Quick Highlights
+
+<table width="100%" border="0" cellpadding="8">
+  <tr>
+    <td width="50%" valign="top">
+      🟢 <strong>Availability:</strong> Open to Full-time Opportunities & Internships (Remote / Hybrid / On-site in Chennai)<br />
+      📍 <strong>Location:</strong> Chennai, Tamil Nadu, India (Open to relocation)<br />
+      🎓 <strong>Education:</strong> B.E. in Computer Science & Engineering (focused on systems and UI design)
+    </td>
+    <td width="50%" valign="top">
+      🚀 <strong>Core Stack:</strong> TypeScript, React, Node.js, Express, Python, Flask, MongoDB, SQL<br />
+      ⚡ <strong>Specializing in:</strong> Civic Tech, Real-Time WebSockets, AI API Integration, and Responsive UX<br />
+      ✉️ <strong>Direct Contact:</strong> <a href="mailto:charankarthik.m26@gmail.com">charankarthik.m26@gmail.com</a>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/charan-karthik-28ba89294/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Charankarthik26?tab=followers">
-    <img src="https://img.shields.io/github/followers/Charankarthik26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
-  </a>
   <a href="mailto:charankarthik.m26@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Charankarthik26">
+    <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
