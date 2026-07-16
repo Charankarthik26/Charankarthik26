@@ -25,7 +25,7 @@
     <td width="50%" valign="top">
       🚀 <strong>Core Stack:</strong> TypeScript, React, Node.js, Express, Python, Flask, MongoDB, SQL<br />
       ⚡ <strong>Specializing in:</strong> Civic Tech, Real-Time WebSockets, AI API Integration, and Responsive UX<br />
-      ✉️ <strong>Direct Contact:</strong> <a href="mailto:charankarthik26022@gmail.com">charankarthik26022@gmail.com</a>
+      ✉️ <strong>Direct Contact:</strong> <a href="mailto:charankarthik.m26@gmail.com">charankarthik.m26@gmail.com</a>
     </td>
   </tr>
 </table>
@@ -66,13 +66,40 @@ const charan = {
 
 ---
 
-## 🏆 GitHub Profile Trophies
+## 🚀 My Dev Journey & Milestones
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Charankarthik26&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+<table width="100%" border="0" cellpadding="8">
+  <tr>
+    <td width="20%" valign="top">📅 <strong>2025 - Present</strong></td>
+    <td width="80%" valign="top">
+      <strong>Full-Stack Engineer & AI Architect</strong> (Independent Projects)<br />
+      Developing AI integrations (such as Snap2Code), optimizing backend APIs, and scaling real-time systems.
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">📅 <strong>2021 - 2025</strong></td>
+    <td width="80%" valign="top">
+      <strong>B.E. in Computer Science & Engineering</strong><br />
+      Graduated with key expertise in systems engineering, databases, data structures, and computer networks.
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">📅 <strong>2023 - 2024</strong></td>
+    <td width="80%" valign="top">
+      <strong>Civic Tech Lead</strong> (Academic/Community Project)<br />
+      Designed and launched the <em>Civic Issue Tracker</em>, implementing WebSocket communication and map integration for real-time local community alerts.
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ Core Engineering Strengths
+
+- 💻 **Clean & Reliable Code**: Leveraging strong TypeScript typings, SOLID design principles, and scalable Express/Flask API architectures.
+- 🎨 **Performance & UX**: Crafting responsive, fluid, and modern UIs with Tailwind CSS, keeping bundle sizes optimized and interactivity high.
+- 🔗 **Real-Time Integration**: Building sub-second socket pipelines and seamlessly integrating third-party AI, OCR, and payment gateways.
+
 
 ---
 
