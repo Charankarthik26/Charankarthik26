@@ -163,6 +163,10 @@ const charan = {
 
 ## 📈 GitHub Stats & Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charankarthik26&theme=radical&hide_border=true" alt="Charan's Contribution Graph" width="100%" />
+</p>
+
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
   <picture>
@@ -172,17 +176,13 @@ const charan = {
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charankarthik26&theme=radical&hide_border=true" alt="Charan's Contribution Graph" width="100%" />
-</p>
-
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Charankarthik26&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Charan's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Charankarthik26&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Charan's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charankarthik26&layout=compact&theme=radical&hide_border=true" alt="Charan's Top Languages" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Charankarthik26&layout=compact&theme=radical&hide_border=true" alt="Charan's Top Languages" width="100%" />
     </td>
   </tr>
 </table>
