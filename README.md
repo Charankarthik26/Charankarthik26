@@ -1,36 +1,11 @@
-<div align="center">
-  <h1>👋 Hello, I'm Charan Karthik M</h1>
-  <p><strong>Full-Stack Software Engineer & Designer</strong></p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Charankarthik26&label=Profile%20Views&color=F85D7F&style=flat-square" alt="Profile Views" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/Charankarthik26?style=flat-square&logo=github&logoColor=white&color=2ea44f" alt="GitHub followers" />
-  </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,f85d7f,50,a855f7,100,3b82f6&height=220&section=header&text=Charan%20Karthik%20M&fontSize=46&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Logic+%26+User+Experience+Enthusiast;Building+Civic+%26+AI+Solutions;Always+learning%2C+constantly+building" alt="Typing SVG" />
-</div>
-
-<br />
-
-### 🎯 Quick Highlights
-
-<table width="100%" border="0" cellpadding="8">
-  <tr>
-    <td width="50%" valign="top">
-      🟢 <strong>Availability:</strong> Open to Full-time Opportunities & Internships (Remote / Hybrid / On-site in Chennai)<br />
-      📍 <strong>Location:</strong> Chennai, Tamil Nadu, India (Open to relocation)<br />
-      🎓 <strong>Education:</strong> B.E. in Computer Science & Engineering (focused on systems and UI design)
-    </td>
-    <td width="50%" valign="top">
-      🚀 <strong>Core Stack:</strong> TypeScript, React, Node.js, Express, Python, Flask, MongoDB, SQL<br />
-      ⚡ <strong>Specializing in:</strong> Civic Tech, Real-Time WebSockets, AI API Integration, and Responsive UX<br />
-      ✉️ <strong>Direct Contact:</strong> <a href="mailto:charankarthik26022@gmail.com">charankarthik26022@gmail.com</a>
-    </td>
-  </tr>
-</table>
-
-<br />
+<!-- CUSTOM CSS-ANIMATED DEVELOPER DASHBOARD -->
+<p align="center">
+  <img src="dev_dashboard.svg" alt="Charan's Developer Dashboard" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/charan-karthik-28ba89294/">
@@ -43,6 +18,19 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+## ⚡ The Developer Vibe (My Coding DNA)
+
+```yaml
+vibe:
+  coffee_level: "████████░░ (80%) - Powered by Filter Coffee ☕"
+  editor_tabs: "4 spaces (No exceptions) ⌨️"
+  active_os: "Windows & Linux Subsystem (WSL) 🪟🐧"
+  theme_vibe: "Tokyo Night / Cyberpunk Neon 🌌"
+  curiosity: "Constant (Currently diving deep into WebSockets & AI Agents) 🧠"
+```
 
 ---
 
@@ -94,16 +82,7 @@ const charan = {
 
 ---
 
-## ⚡ Core Engineering Strengths
-
-- 💻 **Clean & Reliable Code**: Leveraging strong TypeScript typings, SOLID design principles, and scalable Express/Flask API architectures.
-- 🎨 **Performance & UX**: Crafting responsive, fluid, and modern UIs with Tailwind CSS, keeping bundle sizes optimized and interactivity high.
-- 🔗 **Real-Time Integration**: Building sub-second socket pipelines and seamlessly integrating third-party AI, OCR, and payment gateways.
-
-
----
-
-## 🛠️ My Tech Stack
+## 🛠️ My Dev Ecosystem
 
 ### 💻 Frontend & Styling
 <p align="left">
@@ -183,6 +162,15 @@ const charan = {
 ---
 
 ## 📈 GitHub Stats & Activity
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charankarthik26/Charankarthik26/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charankarthik26/Charankarthik26/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Charankarthik26/Charankarthik26/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charankarthik26&theme=radical&hide_border=true" alt="Charan's Contribution Graph" width="100%" />
