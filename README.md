@@ -25,7 +25,7 @@
     <td width="50%" valign="top">
       🚀 <strong>Core Stack:</strong> TypeScript, React, Node.js, Express, Python, Flask, MongoDB, SQL<br />
       ⚡ <strong>Specializing in:</strong> Civic Tech, Real-Time WebSockets, AI API Integration, and Responsive UX<br />
-      ✉️ <strong>Direct Contact:</strong> <a href="mailto:charankarthik.m26@gmail.com">charankarthik.m26@gmail.com</a>
+      ✉️ <strong>Direct Contact:</strong> <a href="mailto:charankarthik26022@gmail.com">charankarthik26022@gmail.com</a>
     </td>
   </tr>
 </table>
@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/charan-karthik-28ba89294/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:charankarthik.m26@gmail.com">
+  <a href="mailto:charankarthik26022@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Charankarthik26">
