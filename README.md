@@ -25,7 +25,7 @@
     <td width="50%" valign="top">
       🚀 <strong>Core Stack:</strong> TypeScript, React, Node.js, Express, Python, Flask, MongoDB, SQL<br />
       ⚡ <strong>Specializing in:</strong> Civic Tech, Real-Time WebSockets, AI API Integration, and Responsive UX<br />
-      ✉️ <strong>Direct Contact:</strong> <a href="mailto:charankarthik26022@gmail.com">charankarthik.m26@gmail.com</a>
+      ✉️ <strong>Direct Contact:</strong> <a href="mailto:charankarthik26022@gmail.com">charankarthik26022@gmail.com</a>
     </td>
   </tr>
 </table>
